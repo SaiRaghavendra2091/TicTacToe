@@ -1,0 +1,48 @@
+   
+h1, h3, h2{
+    text-align: center;
+}
+h1{
+    font-size: 2.5em;
+    margin: 5px;
+}
+
+h2{
+    padding: 10px;
+    width: 400px;
+    margin: 0 auto 10px;
+}
+
+h3{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 120px;
+    margin: 0 auto 10px;
+}
+.row{
+    height: 606px;
+    display: flex;
+    width: 606px;
+    background-color: green;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.col{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(239, 214, 181);
+    border: 1px solid black;
+    font-size: 8em;
+    text-align: center;
+    font-family:cursive ;
+}
+.class{
+    text-align: center;
+    font-size: 2em;
+    margin: 30px auto 10px; 
+    background-color: brown;
+    color: white;
+    width: 30%;
+}
